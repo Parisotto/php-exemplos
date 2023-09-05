@@ -1,1 +1,1 @@
-# Exemplos de exercícios em PYTHON
+# Exemplos de exercícios em PHP
